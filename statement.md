@@ -12,7 +12,7 @@ deadlines, and inaccurate tracking of study habits.
 
 This project provides: - A To‑Do list manager for adding, viewing, and
 deleting tasks. - A Study Timer module to track the duration spent on
-any subject. - A Time Log viewer that will displays all recorded study
+any subject.A Time Log viewer that will displays all recorded study
 sessions.
 
 The project is implemented using Python and runs on a CLI‑based
@@ -39,4 +39,4 @@ interface.
         duration.
 4.  **User-Friendly Interaction**
     -   Simple menu‑based navigation.
-    -   Clear prompts and structured  output.
+    -   Clear prompts and structured output.
